@@ -31,7 +31,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 📄 [My Resume](./Resume.pdf)
 
-💼 [My Proffessional Experience](/proffessional-experience)
+💼 [My Proffessional Experience](proffessional-experience)
 
 <br>
 

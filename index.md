@@ -31,6 +31,8 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 
 📄 [My Resume](./Resume.pdf)
 
+💼 [My Proffessional Experience](/proffessional-experience)
+
 <br>
 
 Thank you for visiting my profile! Looking forward to connecting with you. 😊

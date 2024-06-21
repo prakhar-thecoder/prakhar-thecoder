@@ -1,28 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Embed Markdown</title>
-    <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
-  </head>
-  <body>
-    <div id="content"></div>
+Hi there, I'm Prakhar Parikh! 👋
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        fetch("README.md")
-          .then((response) => response.text())
-          .then((markdown) => {
-            console.log(markdown);
-            var converter = new showdown.Converter();
-            var html = converter.makeHtml(markdown);
-            document.getElementById("content").innerHTML = html;
-          })
-          .catch((error) => {
-            console.error("Error fetching or converting Markdown:", error);
-          });
-      });
-    </script>
-  </body>
-</html>
+## About Me
+
+🎓 I'm a Full Stack Developer and a Cyber Security Enthusiast with a passion for creating secure and efficient software solutions. My superpower? Python! 🐍
+
+🔍 I love exploring the latest trends in technology and constantly enhancing my skills. Whether it's building robust web applications or ensuring security protocols, I thrive in every aspect of development.
+
+## Skills
+
+- **Languages:** Python, C++, JAVA, PHP
+- **Frameworks:** React, React Native, Flask, NodeJS, NextJS
+- **Tools:** Git, Docker, Postman
+- **Cyber Security:** Web and Android Pentesting, Linux
+
+## Let's Connect! 🤝
+
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me through any of the following platforms:
+
+- **Email:** pnp14072005@gmail.com
+- **GitHub:** [prakhar-thecoder](https://github.com/prakhar-thecoder)
+- **LinkedIn:** [Prakhar Parikh](https://www.linkedin.com/in/prakhar-parikh/)
+
+## Hobbies & Interests
+
+- 🖥️ Coding
+- 🔒 Cyber Security
+- 🚀 Exploring new technologies
+
+<br>
+
+📄 [My Resume](./Resume.pdf)
+
+<br>
+
+Thank you for visiting my profile! Looking forward to connecting with you. 😊

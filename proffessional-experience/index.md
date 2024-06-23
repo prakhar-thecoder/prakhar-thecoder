@@ -38,5 +38,3 @@ This page demonstrates my professional experience such as internships and jobs.
     <li>Performed debugging and testing to ensure application functionality.</li>
   </ul>
 </div>
-
----
